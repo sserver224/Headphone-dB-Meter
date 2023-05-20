@@ -10,6 +10,8 @@ The meter was tested on HP 15t-dy100 and Apple EarPods only. Accuracy may not be
 
 The included VB Hi-Fi Cable must be installed along with a split audio output program (eg OBS+Audio Monitor).
 
+OBS (with necessary plugins): https://drive.google.com/file/d/1II3nyKbAy5YOEfShlgLsGeU040QMhkKW/view?usp=sharing
+
 To use the included OBS + Audio Monitor for splitting:
 
 Desktop Audio Settings Cog > Filters... > Audio Monitor.
