@@ -512,7 +512,7 @@ def listen(old=0, error_count=0, min_decibel=100):
                     timeLabel.config(text=str(int(runt))+' sec')
                     for i in range(len(db_levels)):
                         db_level=db_levels[i]
-                        exec("label_"+str(db_level)+".config(text='"+str(db_level)+"dBA: "+str(int(dosimeter_times[str(db_level)+'dB']))+'/'+str(niosh_limits[i])+" sec')")
+                        exec("label_"+str(db_level)+".config(text='"+str(db_level)+"dB: "+str(int(dosimeter_times[str(db_level)+'dB']))+'/'+str(niosh_limits[i])+" sec')")
                         exec("bar_"+str(db_level)+"['value']="+str((dosimeter_times[str(db_level)+'dB']/niosh_limits[i])*100))
                         change_color(i)
             win.after(50, listen)
