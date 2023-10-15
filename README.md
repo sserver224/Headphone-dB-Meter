@@ -8,7 +8,9 @@ Protect your hearing!
 
 The meter was tested on HP 15t-dy100 and Apple EarPods only. Accuracy may not be guaranteed on other headphones/earbuds or devices.
 
-The included VB Hi-Fi Cable must be installed along with a split audio output program (eg OBS+Audio Monitor).
+VB Hi-Fi Cable: https://download.vb-audio.com/Download_CABLE/HiFiCableAsioBridgeSetup_v1007.zip
+
+The VB Hi-Fi Cable must be installed along with a split audio output program (eg OBS+Audio Monitor).
 
 OBS (with necessary plugins): https://drive.google.com/file/d/1II3nyKbAy5YOEfShlgLsGeU040QMhkKW/view?usp=sharing
 
