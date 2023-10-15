@@ -14,6 +14,7 @@ OBS (with necessary plugins): https://drive.google.com/file/d/1II3nyKbAy5YOEfShl
 
 To use the included OBS + Audio Monitor for splitting:
 
+DO NOT UPDATE OBS.
 Desktop Audio Settings Cog > Filters... > Audio Monitor.
 Name can be anything you want.
 On the newly created filter, select the VB Cable as your monitor output.
